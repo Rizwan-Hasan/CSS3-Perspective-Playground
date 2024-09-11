@@ -1,4 +1,4 @@
-# CSS3-Perspective-Playground
+# CSS3 Perspective Playground
 
 A simple Vue.js-based tool for experimenting with CSS3 3D transformations, particularly the `perspective` and `rotateX`, `rotateY`, and `rotateZ` properties. Use the sliders to dynamically adjust the 3D perspective and view the results in real time.
 
